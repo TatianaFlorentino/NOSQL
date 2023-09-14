@@ -22,23 +22,23 @@ Configuração do Ambiente:
   Abrindo um terminal ou cliente de linha de comando e conecte-se ao servidor MongoDB.
 Comandos utilizados no mongoDB:
 
-`show dbs`
+```show dbs```
 
-`use norelacional`
+```use norelacional```
 
-`show collections`
+```show collections```
 
 Criando um novo banco de dados para o seu catálogo de livros, por exemplo, "livraria".
 
 Criando uma Coleção:
-`db.createCollection("livraria");`
+```db.createCollection("livraria");```
 
 * Dentro do banco de dados, crie uma coleção chamada "livros".
 
 As coleções no MongoDB são equivalentes a tabelas em bancos de dados relacionais.
 Inserindo Documentos:
 
-* Insira alguns documentos (dados) na coleção "livros". Cada documento pode representar um livro e incluir campos como "título", "autor" e "ano de publicação".
+* Bora inserir alguns documentos (dados) na coleção "livros". Cada documento pode representar um livro e incluir campos como "título", "autor" e "ano de publicação".
 Utilize comandos como insertOne ou insertMany para adicionar dados à coleção.
 Consultando Documentos:
 
@@ -60,4 +60,4 @@ Conclusão : Esse case tem uma base sólida para entender os conceitos básicos 
 
 Próximos passos:  Explorar casos de uso mais complexos com integração do MongoDB
 
-Palavras-Chaves: #NOSQL | #MONGODB
+Palavras-Chaves: #NOSQL | #MONGODB | Python
