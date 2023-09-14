@@ -16,7 +16,7 @@ Configuração do Ambiente:
 ![image](https://github.com/TatianaFlorentino/NOSQL/assets/41309689/0c7fdd33-2637-4ea3-9c5f-402cc34feddc)
 
 
-* Criando o Banco de Dados:
+* Criando o Banco de Dados com Python:
 
 * Iniciando o servidor MongoDB.
   Abrindo um terminal ou cliente de linha de comando e conecte-se ao servidor MongoDB.
