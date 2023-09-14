@@ -48,3 +48,5 @@ Excluindo Documentos:
 Conclusão : Esse case tem uma base sólida para entender os conceitos básicos do MongoDB, como armazenar, recuperar, atualizar e excluir dados.
 
 Próximos passos:  Explorar casos de uso mais complexos com integração do MongoDB
+
+Palavras-Chaves: #NOSQL | #MONGODB
