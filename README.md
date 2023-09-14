@@ -13,7 +13,8 @@ Objetivo: Conceitos básicos do MongoDB criando um catálogo de livros simples.
 Configuração do Ambiente:
 
 * Criação de um conta MongoDB Atlas,ou seja, nuvem que oferece uma versão gratuita para fins de aprendizado.
-![image](https://github.com/TatianaFlorentino/NOSQL/assets/41309689/c88ceb0b-a471-4c03-8e45-b66c06456002)
+![image](https://github.com/TatianaFlorentino/NOSQL/assets/41309689/0c7fdd33-2637-4ea3-9c5f-402cc34feddc)
+
 
 * Criando o Banco de Dados:
 
