@@ -20,12 +20,21 @@ Configuração do Ambiente:
 
 * Iniciando o servidor MongoDB.
   Abrindo um terminal ou cliente de linha de comando e conecte-se ao servidor MongoDB.
-  {  }
+Comandos utilizados no mongoDB:
 
-* Criando um novo banco de dados para o seu catálogo de livros, por exemplo, "livraria".
+`show dbs`
+
+`use norelacional`
+
+`show collections`
+
+Criando um novo banco de dados para o seu catálogo de livros, por exemplo, "livraria".
+
 Criando uma Coleção:
+`db.createCollection("livraria");`
 
 * Dentro do banco de dados, crie uma coleção chamada "livros".
+
 As coleções no MongoDB são equivalentes a tabelas em bancos de dados relacionais.
 Inserindo Documentos:
 
