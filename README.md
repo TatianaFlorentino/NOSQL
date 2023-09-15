@@ -1,8 +1,14 @@
 # NOSQL
 Objetivo desse repositório criar um case para trabalhar banco de dados não relacional MONGODB
-
 ![image](https://github.com/TatianaFlorentino/NOSQL/assets/41309689/1b06acc3-7244-4c8d-a5df-efbba28657af)
 
+## Introdução ao NoSQL e MongoDB: entendendo o que é NoSQL e as principais características do MongoDB.
+## Primeiros passos: configurando o ambiente e executando os primeiros comandos.
+## Gerenciamento Básico: Gerenciar usuários, analisar execuções de scripts, importação de dados, backup e restauração, além de gestão de MongoDB na nuvem da AWS com Atlas.
+## CRUD – Create, Read, Update & Delete: comandos elementares para consulta e manipulação de dados no MongoDB.
+## Modelagem de Dados: os fundamentos da modelagem de dados orientada à documentos em um case comparativo com modelagem relacional, além de padrões profissionais de modelagem.
+## Crawler com MongoDB
+## Conclusão
 
 Cenário de Aprendizado: Criando um Catálogo de Livros com MongoDB
 
@@ -49,7 +55,6 @@ Atualizando Documentos:
 Excluindo Documentos:
 
 * Praticando a exclusão de documentos da coleção. Usando o comando deleteOne ou deleteMany para remover livros específicos ou vários de uma só vez.
-
 
 * Avaliando como usar índices, agregações e indexação geoespacial.
 
